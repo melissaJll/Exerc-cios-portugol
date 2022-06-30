@@ -2,7 +2,7 @@ programa
 {
 	
 	funcao inicio()
-	{s
+	{
 		inteiro diasTotais, anos, meses, dias
 		escreva("Quantos dias de vida você tem:")
 		leia(diasTotais)
@@ -20,7 +20,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 38; 
+ * @POSICAO-CURSOR = 310; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
